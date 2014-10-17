@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lus:home|Door43 (lus)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lus|d43-lus repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lus/archive/master.zip|d43-lus.zip]]
+
+**Recent Changes**
+{{changes>ns = lus}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lus|Ethnologue data]]
+
